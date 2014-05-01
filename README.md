@@ -1,2 +1,1 @@
-unity-pixelshitter-framework
-============================
+http://rylgh.com/pixelshitter/
